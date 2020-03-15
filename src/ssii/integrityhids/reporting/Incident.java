@@ -1,10 +1,11 @@
-﻿package SSII.IntegrityHIDS.Reporting;
+﻿package ssii.integrityhids.reporting;
 
-import SSII.IntegrityHIDS.DaemonExecutionMode;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.HashMap;
 import java.util.Map;
+
+import ssii.integrityhids.DaemonExecutionMode;
 
 /**
  * <p>Encapsula un incidente.</p>

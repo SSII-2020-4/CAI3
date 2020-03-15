@@ -1,6 +1,4 @@
-﻿package SSII.IntegrityHIDS.Reporting;
-
-import SSII.IntegrityHIDS.DaemonExecutionMode;
+﻿package ssii.integrityhids.reporting;
 
 import java.io.*;
 import java.nio.charset.Charset;
@@ -10,6 +8,8 @@ import java.time.format.DateTimeParseException;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.List;
+
+import ssii.integrityhids.DaemonExecutionMode;
 
 /**
  * <p>Encapsula los resultados de una comprobación de integridad.</p>

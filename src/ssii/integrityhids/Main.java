@@ -1,4 +1,4 @@
-﻿package SSII.IntegrityHIDS;
+﻿package ssii.integrityhids;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;

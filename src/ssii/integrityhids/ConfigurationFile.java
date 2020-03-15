@@ -1,4 +1,4 @@
-package SSII.IntegrityHIDS;
+package ssii.integrityhids;
 
 import org.ini4j.Config;
 import org.ini4j.Wini;

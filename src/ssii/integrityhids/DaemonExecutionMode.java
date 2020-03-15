@@ -1,13 +1,13 @@
-package SSII.IntegrityHIDS;
-
-import SSII.IntegrityHIDS.Reporting.Incident;
-import SSII.IntegrityHIDS.Reporting.IntegrityCheck;
+package ssii.integrityhids;
 
 import java.io.*;
 import java.nio.charset.Charset;
 import java.time.LocalDateTime;
 import java.util.HashMap;
 import java.util.Map;
+
+import ssii.integrityhids.reporting.Incident;
+import ssii.integrityhids.reporting.IntegrityCheck;
 
 /**
  * <p>Implementa los modos de ejecución 'integrity-check' y 'daemon'.</p>

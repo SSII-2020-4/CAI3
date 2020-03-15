@@ -1,10 +1,10 @@
-package SSII.IntegrityHIDS;
-
-import SSII.IntegrityHIDS.Reporting.IntegrityCheck;
+package ssii.integrityhids;
 
 import java.io.*;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
+
+import ssii.integrityhids.reporting.IntegrityCheck;
 
 public class ReportExecutionMode implements ExecutionModeRunnerInterface {
 

@@ -1,4 +1,4 @@
-package SensoresReactor;
+package sensores.reactor;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
